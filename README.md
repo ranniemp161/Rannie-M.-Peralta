@@ -18,7 +18,7 @@ I’m a passionate developer and professional video editor currently focused on 
 * **Current Studies:** System Analysis & Design, Database Normalization, Statistics
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ranniemp161_HERE&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ranniemp161_HERE&show_icons=true&theme=radical)
 
 ---
 
