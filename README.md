@@ -2,26 +2,31 @@
 
 ### 👨‍💻 Video Editor | Software Developer | Student
 
-I’m a passionate developer and professional video editor currently focused on building tools that bridge the gap between AI and post-production.
+I am a professional video editor and social media manager currently bridging the gap between post-production and AI development.
 
 ---
 
 ### 🚀 What I'm Working On
-* **[Web-Based Rough Cut Editor]**: Building an AI-powered tool using **Python (Flask/MoviePy)** and **JavaScript** to automate the tedious parts of video editing.
-* **[Financial Literacy App]**: Developing a system for my **IS104 (System Analysis Design)** course to help students manage their money better.
-* **[The Forgotten Father]**: Writing a book exploring the historical and philosophical foundations of theology.
+* **AI Rough-Cut Editor**: Building a web-based tool using **Python (Flask/MoviePy)** and **JavaScript** that uses **EDL** for professional workflow compatibility.
+* **Financial Literacy App**: A system analysis project for **IS104** designed to help fellow students manage their finances.
+* **The Forgotten Father**: Writing a book exploring historical and philosophical theology.
+
+---
 
 ### 🛠 Tech Stack & Tools
-* **Languages:** JavaScript, Python, SQL
-* **Frameworks/Libs:** Flask, MoviePy
-* **Video Gear:** DaVinci Resolve, OpenShot
-* **Current Studies:** System Analysis & Design, Database Normalization, Statistics
+* **Development:** JavaScript, Python, SQL, Flask
+* **Video Editing:** DaVinci Resolve, OpenShot
+* **Education:** Currently studying System Analysis Design & Database Normalization
+
+---
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ranniemp161_HERE&show_icons=true&theme=radical)
+![Rannie's Stats](https://github-readme-stats.vercel.app/api?username=ranniemp161&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranniemp161&layout=compact&theme=tokyonight)
 
 ---
 
 ### ⚡ Fun Fact
-When I'm not coding or editing, I'm usually diving deep into ancient history, philosophy, or practicing my Spanish! 🇪🇸
+When I'm not coding or editing, I'm usually diving into ancient history, philosophy, or practicing my Spanish! 🇪🇸
