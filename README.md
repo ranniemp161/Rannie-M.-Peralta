@@ -1,6 +1,6 @@
 # Hi there, I'm Rannie! 👋
 
-### 👨‍💻 Video Editor | Software Developer | Student
+### Software Developer | Video Editor | Social Media Manager | Philospher
 
 I am a professional video editor and social media manager currently bridging the gap between post-production and AI development.
 
@@ -14,7 +14,7 @@ I am a professional video editor and social media manager currently bridging the
 ---
 
 ### 🚀 What I'm Working On
-* **AI Rough-Cut Editor**: Building a web-based tool using **Python (Flask/MoviePy)** and **JavaScript** that uses **EDL** for professional workflow compatibility.
+* **Founder's Frame Company**: I maintained and built the 3 applications that will help the content creators: the rough cut app, the infographics app, and the thumbnail app.
 * **Financial Literacy App**: A system analysis project for **IS104** designed to help fellow students manage their finances.
 * **The Forgotten Father**: Writing a book exploring historical and philosophical theology.
 
