@@ -2,7 +2,7 @@
 
 ### Software Developer | Video Editor | Social Media Manager | Philospher
 
-I am a professional video editor and social media manager currently bridging the gap between post-production and AI development.
+I am a Junior Software Engineer, professional Video Editor, and Social Media Manager currently bridging the gap between post-production and AI development.
 
 <a href="mailto:princeraen161@gmai.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> 
